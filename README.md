@@ -1,5 +1,5 @@
 **My first steps on Python and i hope i will succeed**
-# Heading 1 Here are some info about this project
+# Here are some info about this project
 Project aimed on leraning of basic fundamentals of Python 
 
 **Lesson # 1**
