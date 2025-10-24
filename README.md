@@ -1,6 +1,8 @@
 **My first steps on Python and i hope i will succeed**
 # Here are some info about this project
 Project aimed on leraning of basic fundamentals of Python 
+
+
 python version 3.14 
 
 **Lesson # 1**
