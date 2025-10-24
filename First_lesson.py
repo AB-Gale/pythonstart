@@ -43,6 +43,8 @@
 # question4 = input("Please provide and email for invoice")
 # print("email fro invoice", question4)
 
+# Типы данных
+# boolean:true or false
 # int - целые числа
 # float - не целые числа
 # str - text 
@@ -58,11 +60,11 @@
 # type_of_num5 = type(num5)
 # print(type_of_num5)
 
-num1 = '5'
-num2 = 10
-num3 = 6.5
-dif = num2 - num3
-print(dif)
+# num1 = '5'
+# num2 = 10
+# num3 = 6.5
+# dif = num2 - num3
+# print(dif)
 
-dif2 = num2 - num1 
-print(dif2)
+# dif2 = num2 - num1 
+# print(dif2)
