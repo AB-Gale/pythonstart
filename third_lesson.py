@@ -44,6 +44,15 @@
 # num3 = 10
 # print(num * num2 / num3)
 
+# num = 5 
+# num2 = 2 / 10
+# result_2 = num ** num2
+# print(f"5(2/10) равно: {result_2}")
+
+
+
+
+
 # num, num2, num3, num4, = 2, 34, 23, 46
 
 # print((num3 / num4) ** 2 + num / num2)
