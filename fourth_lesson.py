@@ -70,6 +70,14 @@ people  = ["Tom", "John", "Alex", "Mason", "Ken"]
 # print("this is people", people)
 # print("this is people2", people2)
 
+# num1 = 1.4
+# num2 = str(num1)
+# print(num2)
 
+# price = int(input("Enter the price: "))
+# print(price)
+# print(type(price))
 
-
+age = int(input("Enter ur age: "))
+a = age % 10 == 0
+print(a)
