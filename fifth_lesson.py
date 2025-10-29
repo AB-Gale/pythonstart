@@ -29,9 +29,38 @@
 #     print(f'this individual is on Old age cause age is {personAge}')
 
 
-list1 = [2, 3, 4, 5]
-if 2 not in list1:
-    print("yes, he is in the list")
-else: 
-    print("he is not in the list")
+# list1 = [2, 3, 4, 5]
+# if 2 not in list1:
+#     print("yes, he is in the list")
+# else: 
+#     print("he is not in the list")
 
+num1 = input("Введите делитель ")
+num2 = input("введите делимое")
+
+try:
+    num1 = int(num1) 
+    num2 = int(num2)    # генерирует исключение ZeroDivisionError
+    num3 = num1 / num2
+    print("Результат деления:", num3)
+    if num3 <= 5:
+        print("num3 меньше 5")
+    elif num3 > 5 and num3 < 10:
+        print("num3 больше 5")
+    else:
+        print("num3 больше или равно 10")
+except:
+    print("Введите корректные числа")
+
+finally:
+    print("Блок try завершил выполнение")
+print("Завершение программы")
+
+
+a = 5
+b = 6
+sum1 = a+b
+print(sum1)
+# a = 5
+# b = 6
+# sum1 = a + b
